@@ -1,0 +1,3 @@
+[submodule ".github/workflows/submodules/SCM_repo"]
+	path = .github/workflows/submodules/SCM_repo
+	url = https://github.com/Jashneer/SCM_repo.git
